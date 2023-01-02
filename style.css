@@ -83,4 +83,8 @@ li.dokme{
     display: inline;
     margin: 10px;
 }
-
+.back:hover,
+.for:hover,
+.play:hover{
+    border-color: #bebebe;
+}
