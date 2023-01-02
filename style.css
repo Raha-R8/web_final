@@ -65,3 +65,22 @@ li.time2{
 ul.a{
     padding: 0px
 }
+.play,
+.back,
+.for{
+    border-color: #ffffff;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+ul{
+    padding-top: 10px;
+    padding-left: 0px;
+
+}
+
+li.dokme{
+    display: inline;
+    margin: 10px;
+}
+
