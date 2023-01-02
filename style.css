@@ -47,3 +47,21 @@ img{
 img:hover{
     filter: drop-shadow(2px 2px 5px #666666) ; 
 }
+input{
+    width: 249px;
+}
+li.time1{
+    display: inline;
+    color: white;
+    padding-right: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li.time2{
+    display: inline;
+    color: white;
+    padding-left: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;       
+}
+ul.a{
+    padding: 0px
+}
