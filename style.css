@@ -29,6 +29,16 @@ p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
+.gray{
+    color: #666666;
+    font-size: smaller;
+    text-shadow: 2px 2px 5px #2e2e2e;
+    
+}
+.gray:hover{
+    color: #2e2e2e;
+    transition: 0.3s;
+}
 img{
     width: 190px;
     height: 190px;
